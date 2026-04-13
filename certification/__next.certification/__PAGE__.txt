@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"children":["$","nav",null,{"children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"https://wishba.github.io/","children":"Home"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://wishba.hashnode.dev/","target":"_blank","rel":"noopener noreferrer","children":"Blog"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.canva.com/design/DAHDJxYaXkM/cqPNO6tADgUISSa-UfsX5w/edit?utm_content=DAHDJxYaXkM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton","target":"_blank","rel":"noopener noreferrer","children":"Resume"}]}]]}]}]}],["$","h1",null,{"children":"CertificationPage"}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8O8Zw5RpsSpXYMhgulmtm"}
+4:null
